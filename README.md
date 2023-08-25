@@ -86,10 +86,15 @@ We can verify the counter operation using this waveform. You can also change the
 # Yosys
 
 We will be using Yosys for the synthesis of our Verilog designs.
+
 It will convert our RTL design to a gate-level netlist.
+
 Yosys uses a synthesis script to read a design from a Verilog file, synthesizes it to a gate-level netlist using the cell library 
 and writes the synthesized results as a Verilog netlist. The synthesis script will be written by the user on the terminal.
+
 We will consider the same example as mentioned above.
 To start Yosys just type yosys in the terminal.
+
 We will start by reading our library files; this lets the synthesizer know what standard cells we are using:
+
 'read_liberty -lib ../my_lib/lib/sky130_fd_sc_hd__tt_025C_1v80.lib`
