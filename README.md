@@ -78,3 +78,6 @@ Once the .vcd file has been generated, we can finally view the output using gtkw
 tb_good_counter.vcd
 
 
+![Screenshot from 2023-08-24 15-44-00](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/458c1930-247f-49de-abfe-973315297515)
+
+
