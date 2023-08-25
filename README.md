@@ -175,4 +175,4 @@ This project showcases the practical implementation of an FSM for solving arithm
 
 Real-world Relevance
 FSMs play a pivotal role in digital design, enabling systems to make intelligent decisions based on inputs and states. The ability to efficiently determine divisibility has applications in cryptography, coding theory, and hardware design.
- By following the provided steps and guidelines, one can confidently verify that the functionality of the 16-bit ALU is successfully met post-synthesis in Yosys, confirming its correct operation in real hardware scenarios.
+ By following the provided steps and guidelines, one can confidently verify that the functionality of the FSM for decimal divisble by 5 is successfully met post-synthesis in Yosys, confirming its correct operation in real hardware scenarios.
