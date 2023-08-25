@@ -41,6 +41,8 @@ State S4: Represents the remainder 4 when dividing by 5.
 # State Diagram
 A visual representation of the state transitions is shown in the state diagram below:
 
+![fsm_by_5](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/2bbfb76c-c10b-4af6-aa9d-0a00afc88c03)
+
 
 
 
