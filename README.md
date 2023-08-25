@@ -143,3 +143,4 @@ The below images show the report of sequential and combinational ciruits being m
 
 ![Reintregrating combinal logic](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/19175472-8371-4d9f-8bab-d938e3a1651a)
 
+# Post Synthesis Block Diagram mapped into technology file
