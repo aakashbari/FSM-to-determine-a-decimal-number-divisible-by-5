@@ -85,7 +85,8 @@ We can verify the counter operation using this waveform. You can also change the
 
 # Yosys
 
-We will be using Yosys for the synthesis of our Verilog designs. It will convert our RTL design to a gate-level netlist.
+We will be using Yosys for the synthesis of our Verilog designs.
+It will convert our RTL design to a gate-level netlist.
 Yosys uses a synthesis script to read a design from a Verilog file, synthesizes it to a gate-level netlist using the cell library 
 and writes the synthesized results as a Verilog netlist. The synthesis script will be written by the user on the terminal.
 We will consider the same example as mentioned above.
