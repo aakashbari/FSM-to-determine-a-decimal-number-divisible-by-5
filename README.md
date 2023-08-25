@@ -1,1 +1,1 @@
-# FSM-to-determine-a-decimal-number-divisible-by-5
+# FSM To Determine a Decimal Number Divisible BY 5
