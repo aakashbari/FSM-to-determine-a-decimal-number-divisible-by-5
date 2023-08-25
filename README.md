@@ -27,7 +27,8 @@ A testbench provides these 'changes' in values. A testbench is a Verilog program
 
 # Logic for decimal division by 5
 
-![Logic](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/0a935600-77b6-49d0-9a3e-b4f92a1cd587)
+![Logic](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/37fed5eb-de9a-4e30-ac1a-480c7e7f8c04)
+
 
 
 
