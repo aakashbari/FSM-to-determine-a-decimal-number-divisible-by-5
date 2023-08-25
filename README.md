@@ -66,8 +66,9 @@ The heart of the FSM's functionality lies in the transition logic, where the nex
 
 
 ![Screenshot from 2023-08-25 20-20-45](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/485fd25a-2c2d-41b1-9bb4-b2ac632cc2fe)
-![code3_part](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/36eef1bf-2663-42ae-9b14-5dbe78cc0e6c)
 ![code2](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/63e72b16-cdf0-4bac-82f6-74208c49944d)
+![code3_part](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/36eef1bf-2663-42ae-9b14-5dbe78cc0e6c)
+
 
 
 
