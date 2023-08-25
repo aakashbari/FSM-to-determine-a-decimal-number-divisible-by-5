@@ -38,7 +38,21 @@ State S3: Represents the remainder 3 when dividing by 5.
 
 State S4: Represents the remainder 4 when dividing by 5.
 
+# State Diagram
+A visual representation of the state transitions is shown in the state diagram below:
 
+
+
+
+ # SystemVerilog Implementation
+Design Hierarchy
+The implementation is structured using SystemVerilog modules. The main module contains the FSM logic, and auxiliary modules handle state assignments, transitions, and input handling.
+
+Module Interfaces
+The main module interfaces include inputs for ternary digits, control signals, and outputs indicating divisibility. Additional modules handle state assignment and transition logic.
+
+Transition Logic
+The heart of the FSM's functionality lies in the transition logic, where the next state is determined based on the current state and input ternary digit.
 
 
 
@@ -48,5 +62,9 @@ State S4: Represents the remainder 4 when dividing by 5.
 ![Screenshot from 2023-08-25 20-21-12](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/03da25e4-f03f-45c2-906b-66b617b5d67b)
 
 
+To run these files using iverilog, use the following command: iverilog fsm_5.v tb_fsm_5.v
+If there were no errors, this will create a 'a.out' file in your current working directory. 'a.out' is an output file. Running this file will create .vcd file which will be used for simulation. To run the 'a.out' file use the following command: ./a.out or vvp a.out.
+Note that the default .vcd file name will be tb_.vcd.
+Once the .vcd file has been generated, we can finally view the output using gtkwave: gtkwave tb_good_counter.vcd
 
 
