@@ -104,9 +104,10 @@ The below image shows the monitored results corresponding to the given stimulus:
 ![stimulus result](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/9c35ee94-6b53-432b-999b-89b280440c48)
 ![stimulus_result_2](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/3d8b5270-aaf4-479a-b9e6-4fd01c86d688)
 
-The below image shows the waveform generaed after the simulation:
 
 # Pre-synthesis Waveform
+
+The below image shows the waveform generated after the simulation:
 
 ![Screenshot from 2023-08-24 15-44-00](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/458c1930-247f-49de-abfe-973315297515)
 
@@ -152,7 +153,8 @@ The below images show the report of sequential and combinational ciruits being m
 
 Sequential Mapping
 
-![Sequential_mapping](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/f6e79755-90e0-4b71-b3a8-acbfd32e294b
+![Sequential_mapping](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/c9e50245-af27-4fde-9a58-de3bbd73f23f)
+
 
 Combinational Mapping
 
