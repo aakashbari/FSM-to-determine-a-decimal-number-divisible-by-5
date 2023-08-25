@@ -128,3 +128,13 @@ For performing synthesis we have to open yosys, to do so use the command yosys. 
 
 The below image shows the netlist generated in case of FSM for divide by 5
 
+![Printing_statics](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/3d6f850a-8b00-4400-aa14-b48c117ac5c5)
+
+Once this is done, its necessary to map the gates and flip-flops to their technology library.
+
+Use dfflibmap -liberty ../lib/sky130_fd_sc_hd__tt_025C_1v80 for Sequential circuits.
+Use abc -liberty ../lib/sky130_fd_sc_hd__tt_025C_1v80 for combinational circuits.
+
+Even in our case, the FSM  divide by 5 is mapped to its respective technology library. 
+
+The below images show the report of sequential and combinational ciruits being mapped to their technology libraries.
