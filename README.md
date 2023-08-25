@@ -76,10 +76,13 @@ The heart of the FSM's functionality lies in the transition logic, where the nex
 
 To run these files using iverilog, use the following command: 
 iverilog fsm_5.v tb_fsm_5.v
+
 If there were no errors, this will create a 'a.out' file in your current working directory.  'a.out' is an output file.
 Running this file will create .vcd file which will be used for simulation. 
 To run the 'a.out' file use the following command: ./a.out or vvp a.out.
+
 Note that the default .vcd file name will be tb_.vcd.
+
 Once the .vcd file has been generated, we can finally view the output using gtkwave: gtkwave 
 tb_good_counter.vcd
 
