@@ -139,18 +139,20 @@ Even in our case, the FSM  divide by 5 is mapped to its respective technology li
 
 The below images show the report of sequential and combinational ciruits being mapped to their technology libraries.
 
-![image](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/41a3d2b4-3ba5-4576-8958-81aff4049f2a)
-
 Sequential Mapping
 
-![Sequential_mapping](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/f6e79755-90e0-4b71-b3a8-acbfd32e294b)
+![Sequential_mapping](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/f6e79755-90e0-4b71-b3a8-acbfd32e294b
 
 Combinational Mapping
+
+![image](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/41a3d2b4-3ba5-4576-8958-81aff4049f2a)
+)
+
+
 
 ![Reintregrating combinal logic](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/d4b4bdfc-325a-4f62-bae3-4e77e714e2a2)
 
 
-![Reintregrating combinal logic](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/19175472-8371-4d9f-8bab-d938e3a1651a)
 
 # Post Synthesis Block Diagram mapped into technology file
 
