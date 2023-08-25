@@ -7,7 +7,9 @@ This repository contains all the information needed to build your  Finite State 
 
 # Introduction
 
-The purpose of this project is to develop a simple FSM that can determine the divisibility of a ternary number by 5. The FSM takes advantage of the relationship between remainders and divisibility to efficiently make this determination. The report discusses the design, implementation, and usage of the FSM.
+The purpose of this project is to develop a simple FSM that can determine the divisibility of a ternary number by 5.
+The FSM takes advantage of the relationship between remainders and divisibility to efficiently make this determination. 
+The report discusses the design, implementation, and usage of the FSM.
 
 
 
