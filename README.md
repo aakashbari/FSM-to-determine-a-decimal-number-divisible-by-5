@@ -138,3 +138,8 @@ Use abc -liberty ../lib/sky130_fd_sc_hd__tt_025C_1v80 for combinational circuits
 Even in our case, the FSM  divide by 5 is mapped to its respective technology library. 
 
 The below images show the report of sequential and combinational ciruits being mapped to their technology libraries.
+
+![image](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/41a3d2b4-3ba5-4576-8958-81aff4049f2a)
+
+![image](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/431c0903-ec9d-40db-8cf2-89017afcd869)
+
