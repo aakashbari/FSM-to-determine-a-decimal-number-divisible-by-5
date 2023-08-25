@@ -25,7 +25,9 @@ A testbench provides these 'changes' in values. A testbench is a Verilog program
 
 
 
+
 # FSM Design
+
 The FSM is designed around five states, denoted as S0, S1, S2, S3, and S4, corresponding to the possible remainders when dividing by 5.  Transitions between these states occur based on the ternary digits of the input number. The transitions are defined such that the next state depends on the current state and the value of the current digit.
 
 State S0: Represents the remainder 0 when dividing by 5.
@@ -39,6 +41,7 @@ State S3: Represents the remainder 3 when dividing by 5.
 State S4: Represents the remainder 4 when dividing by 5.
 
 # State Diagram
+
 A visual representation of the state transitions is shown in the state diagram below:
 
 ![fsm_by_5](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/2bbfb76c-c10b-4af6-aa9d-0a00afc88c03)
@@ -47,6 +50,7 @@ A visual representation of the state transitions is shown in the state diagram b
 
 
  # SystemVerilog Implementation
+ 
 Design Hierarchy
 The implementation is structured using SystemVerilog modules. The main module contains the FSM logic, and auxiliary modules handle state assignments, transitions, and input handling.
 
