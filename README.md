@@ -1,4 +1,4 @@
-# FSM To Determine a Decimal Number Divisible By 5
+# FSM To Determine a Decimal Number Divisible By 5 Using Yosys
 This repository contains all the information needed to build your  Finite State Machine to detect a decimal number (0-9) whether it is divisible by 5 or not
 
 
