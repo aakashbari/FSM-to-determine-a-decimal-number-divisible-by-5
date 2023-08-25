@@ -13,9 +13,10 @@ The purpose of this project is to develop a simple FSM that can determine the di
 
 
 # Background and Objectives
+
 This project involves designing and implementing a Finite State Machine (FSM) to determine the divisibility of a ternary number by 5. The objectives are to provide a practical illustration of FSMs in digital systems and demonstrate their role in solving arithmetic problems.
 
-# Role of FSMs in Digital Systems
+Role of FSMs in Digital Systems
 FSMs are crucial components in digital systems, controlling various functions based on inputs and current states. Their applications range from controlling complex systems to solving mathematical problems efficiently in hardware.
 
 
