@@ -158,3 +158,10 @@ Combinational Mapping
 
 ![Post_synthesis block diagram](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/b906b0eb-babf-4e16-8f71-ff8a702cbe9b)
 
+
+# Conclusion
+
+This project showcases the practical implementation of an FSM for solving arithmetic problems in digital systems. It highlights the importance of efficient state transitions, optimization, and their applications in real-world scenarios.
+
+Real-world Relevance
+FSMs play a pivotal role in digital design, enabling systems to make intelligent decisions based on inputs and states. The ability to efficiently determine divisibility has applications in cryptography, coding theory, and hardware design.
