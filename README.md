@@ -66,6 +66,8 @@ The heart of the FSM's functionality lies in the transition logic, where the nex
 
 
 
+
+
 To run these files using iverilog, use the following command: 
 iverilog fsm_5.v tb_fsm_5.v
 If there were no errors, this will create a 'a.out' file in your current working directory.  'a.out' is an output file.
