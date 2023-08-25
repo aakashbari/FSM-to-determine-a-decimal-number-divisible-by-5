@@ -62,6 +62,10 @@ The heart of the FSM's functionality lies in the transition logic, where the nex
 ![Screenshot from 2023-08-25 20-21-12](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/03da25e4-f03f-45c2-906b-66b617b5d67b)
 
 
+![Screenshot from 2023-08-25 20-41-24](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/1e7c9ae5-104e-4f10-b059-c24bda36660a)
+![Screenshot from 2023-08-25 20-41-17](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/50944f73-db21-48a7-a120-9e0bb1be20de)
+
+
 To run these files using iverilog, use the following command: iverilog fsm_5.v tb_fsm_5.v
 If there were no errors, this will create a 'a.out' file in your current working directory. 'a.out' is an output file. Running this file will create .vcd file which will be used for simulation. To run the 'a.out' file use the following command: ./a.out or vvp a.out.
 Note that the default .vcd file name will be tb_.vcd.
