@@ -88,6 +88,9 @@ Note that the default .vcd file name will be tb_.vcd.
 Once the .vcd file has been generated, we can finally view the output using gtkwave: gtkwave 
 tb_good_counter.vcd
 
+The below image shows the monitored results corresponding to the given stimulus:
+
+
 
 ![Screenshot from 2023-08-24 15-44-00](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/458c1930-247f-49de-abfe-973315297515)
 
