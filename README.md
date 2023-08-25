@@ -25,6 +25,10 @@ FSMs are crucial components in digital systems, controlling various functions ba
 iverilog or Icarus Verilog is a simulation and synthesis tool. It should be noted that we will be using it as a simulation tool only and do the synthesis using yosys. We will be viewing the simulation results using a waveform viewer known as gtkwave. It uses a .vcd file to produce the waveform. VCD stands for value change dump. It is a dump file that the gtkwave uses for simulation.
 A testbench provides these 'changes' in values. A testbench is a Verilog program that checks the functionality of our design by giving various possible inputs to the design.
 
+# Logic for decimal division by 5
+
+![Logic](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/0a935600-77b6-49d0-9a3e-b4f92a1cd587)
+
 
 
 
