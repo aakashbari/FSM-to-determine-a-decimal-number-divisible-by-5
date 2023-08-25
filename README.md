@@ -123,4 +123,4 @@ So to generate a block diagram use show top_module_name in the terminal.
 ![pre_synthesis](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/4043837a-4d57-432e-969d-a55cb4beea9a)
 
 
-
+# RTL Synthesis of FSM divide by 5
