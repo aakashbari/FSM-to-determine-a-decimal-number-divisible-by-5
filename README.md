@@ -66,8 +66,13 @@ The heart of the FSM's functionality lies in the transition logic, where the nex
 
 
 ![Screenshot from 2023-08-25 20-20-45](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/485fd25a-2c2d-41b1-9bb4-b2ac632cc2fe)
-![Screenshot from 2023-08-25 20-21-09](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/6c6e0063-6380-405b-b14c-6c8002a120fb)
-![Screenshot from 2023-08-25 20-21-12](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/03da25e4-f03f-45c2-906b-66b617b5d67b)
+![code3_part](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/36eef1bf-2663-42ae-9b14-5dbe78cc0e6c)
+![code2](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/63e72b16-cdf0-4bac-82f6-74208c49944d)
+
+
+
+
+
 
 ![Screenshot from 2023-08-25 20-41-17](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/50944f73-db21-48a7-a120-9e0bb1be20de)
 ![Screenshot from 2023-08-25 20-41-24](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/1e7c9ae5-104e-4f10-b059-c24bda36660a)
