@@ -91,7 +91,6 @@ tb_good_counter.vcd
 The below image shows the monitored results corresponding to the given stimulus:
 
 ![stimulus result](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/9c35ee94-6b53-432b-999b-89b280440c48)
-
 ![stimulus_result_2](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/3d8b5270-aaf4-479a-b9e6-4fd01c86d688)
 
 The below image shows the waveform generaed after the simulation:
@@ -101,7 +100,6 @@ The below image shows the waveform generaed after the simulation:
 ![Screenshot from 2023-08-24 15-44-00](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/458c1930-247f-49de-abfe-973315297515)
 
 
-We can verify the counter operation using this waveform. You can also change the colour of individual signals for convenience.
 
 # Yosys
 
