@@ -141,5 +141,3 @@ The below images show the report of sequential and combinational ciruits being m
 
 ![image](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/41a3d2b4-3ba5-4576-8958-81aff4049f2a)
 
-![image](https://github.com/aakashbari/FSM-to-determine-a-decimal-number-divisible-by-5/assets/143193204/431c0903-ec9d-40db-8cf2-89017afcd869)
-
